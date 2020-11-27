@@ -1,8 +1,14 @@
 [
   {
     "key": "M7",
-	 "name": "Microset",
+    "name": "Microset",
     "latitude": -21.19309,
     "longitude": -47.81671
+  },
+  {
+    "key": "Agua-Rasa",
+    "name": "Agua Rasa",
+    "latitude":-23.55886,
+    "longitude":-46.56814
   }
 ]
