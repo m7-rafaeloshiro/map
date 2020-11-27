@@ -4,5 +4,11 @@
     "name": "Microset",
     "latitude": -21.19309,
     "longitude": -47.81671
+  },
+  {
+    "key": "Agua-Rasa",
+    "name": "Agua Rasa",
+    "latitude":-23.558865872276197,
+    "longitude":-46.56814211774665
   }
 ]
